@@ -4,6 +4,8 @@ import requests
 import json
 import time
 
+#this is to test if the bot for hacknight is up and running
+
 # The API being used for ip change detection :
 # https://www.ipify.org/
 # Surprise Surpise , this website claim 99% uptime with unlimited requests!!!
